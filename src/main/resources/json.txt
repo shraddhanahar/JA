@@ -1,0 +1,8 @@
+{
+    "cityId":2,	
+	"isActive":1,	
+	"cityName":"Jabalpur",	
+	"country":"India",	
+	"pincode":"507871",	
+	"stateName":"Chandigarh"
+}
